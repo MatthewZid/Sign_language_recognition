@@ -16,5 +16,7 @@ For more insights, you could read the report.
 
 <img src="https://github.com/george22294/Sign_language_recognition/blob/main/demos/first_demo.gif"/>
 
+<img src="https://github.com/george22294/Sign_language_recognition/blob/main/demos/second_demo.gif"/>
+
 
 
