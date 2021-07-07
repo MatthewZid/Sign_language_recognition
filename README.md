@@ -14,7 +14,7 @@ It is important to be mentioned that only the isolated samples of this dataset w
 
 For more insights, you could read the report.
 
-<img src="https://github.com/george22294/Sign_language_recognition/blob/main/resized_first_demo.gif" width="128" height="128"/>
+<img src="https://github.com/george22294/Sign_language_recognition/blob/main/resized_first_demo.gif"/>
 
 
 
