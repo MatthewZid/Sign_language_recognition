@@ -14,6 +14,7 @@ It is important to be mentioned that only the isolated samples of this dataset w
 
 For more insights, you could read the report.
 
-![](https://drive.google.com/file/d/1xVipcd7bPQSsZRFKGQYwPa1A59EZnhA1/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1xVipcd7bPQSsZRFKGQYwPa1A59EZnhA1/view?usp=sharing" width="200" height="400" />
+
 
 
