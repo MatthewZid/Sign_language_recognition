@@ -5,7 +5,7 @@ Sign language recognition problem requires a plethora of computational and equip
 
 ## Code
 
-In directory _code_ you can find the corresponding directories which refer to the pythons scripts which were tested on Ubuntu or Windows 10, respectivelly. Each one of these cointains the appropriate README.txt file where you can find the details on how to run them. In addition, in README files you can figure out where to find the dataset used, the structure to be given in your own dataset if you want to use another one, and how to use it.
+In directory _code_ you can find the corresponding directories which refer to the pythons scripts which were tested on Ubuntu or Windows 10, respectively. Each one of these cointains the appropriate README.txt file where you can find the details on how to run them. In addition, in README files you can figure out where to find the dataset used, the structure to be given in your own dataset if you want to use another one, and how to use it.
 
 ## Dataset
 
