@@ -1,7 +1,7 @@
 # Sign_language_recognition
 This project is about Sign language recognition using Mediapipe framework applied in video frames.
 
-Sign language recognition problem requires a plethora of computational and equipment resources for a required feature representation to express every hand gesture. Various studies have proposed different deep learning and machine learning approaches using depth images to achieve extremely high accuracy. In this work, we propose a solution based on the _Mediapipe_ framework for extracting the body points from video frames, and on Neural Networks and the SVM classifier that accept them as input. The outcomes proved to be satisfactory given the chosen preprocessing methods that yielded 94-95% F1 macro score on the test set for 10 glosses as classes. 
+Sign language recognition problem requires a plethora of computational and equipment resources for a required feature representation to express every hand gesture. Various studies have proposed different deep learning and machine learning approaches using depth images to achieve extremely high accuracy. In this work, we propose a solution based on the [Mediapipe](https://google.github.io/mediapipe/) framework for extracting the body points from video frames, and on Neural Networks and the SVM classifier that accept them as input. The outcomes proved to be satisfactory given the chosen preprocessing methods that yielded 94-95% F1 macro score on the test set for 10 glosses as classes. 
 
 ## Code
 
