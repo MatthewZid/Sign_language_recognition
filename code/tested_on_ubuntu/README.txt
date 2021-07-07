@@ -19,4 +19,6 @@ Below is the runtime order:
 
 - 6_test_model.py: testing the saved model from 5.
 
+- 7_live_test.py: live demonstartion of LSTM model prediction (needs webcam!)
+
 - annotate_img.py: generates the selected upper body points and saves them in blank images.
