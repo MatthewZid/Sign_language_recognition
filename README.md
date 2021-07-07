@@ -14,7 +14,7 @@ It is important to be mentioned that only the isolated samples of this dataset w
 
 For more insights, you could read the report.
 
-The above demos is in slow motion so that the outocomes are easily perceived. Note that the predictions are different for consecutive frames, meaning that the predictions apply in sliding windows with window size to be equal to 10.
+The above demos is in slow motion so that the outocomes are easily perceived. After 10 frames, predictions are produced using the model which corresponds to _Archtecture 1_ described in report. Note that the predictions are different for consecutive frames, meaning that the predictions apply in sliding windows with window size to be equal to 10.
 
 <img src="https://github.com/george22294/Sign_language_recognition/blob/main/demos/first_demo.gif"/>
 
